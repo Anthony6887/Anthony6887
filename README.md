@@ -10,8 +10,7 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 , base de datos![image](https://user-images.githubusercontent.com/109778441/180619730-2d62c0ab-e801-4ac5-98d1-9e10b6b0d114.png)
 , java swing![image](https://user-images.githubusercontent.com/109778441/180619710-59b3c4bb-364b-4b52-bb7d-cf5ad8b27304.png)
 , redes![image](https://user-images.githubusercontent.com/109778441/180619742-0f99ca9f-d68e-48b2-b521-90ee8167bc30.png)
-, github.![image](https://user-images.githubusercontent.com/109778441/180619699-04ce5b50-5f1e-4b2b-9606-60c51bd685a8.png)
-
+, github[<img src='https://user-images.githubusercontent.com/109778441/180619699-04ce5b50-5f1e-4b2b-9606-60c51bd685a8.png' alt='github' height='40'>]
 - 📫 Cómo contactarme: asolis@uta.edu.ec
 - 📲 Whatsapp: +593 987153094
 
