@@ -7,11 +7,17 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 
 - 🌱 Estoy aprendiendo 
 php <img src='https://user-images.githubusercontent.com/109778441/180619720-2ce15725-e2c4-4723-8dd0-8008818211de.png' alt='github' height='40'>
+<br>
 html <img src='https://user-images.githubusercontent.com/109778441/180619726-5a9ae7e9-9061-4e28-bc1c-9c4972258dbc.png' alt='github' height='40'>
+<br>
 base de datos <img src='https://user-images.githubusercontent.com/109778441/180619730-2d62c0ab-e801-4ac5-98d1-9e10b6b0d114.png' alt='github' height='40'>
+<br>
 java swing<img src='https://user-images.githubusercontent.com/109778441/180619710-59b3c4bb-364b-4b52-bb7d-cf5ad8b27304.png' alt='github' height='40'>
+<br>
 redes<img src='https://user-images.githubusercontent.com/109778441/180619742-0f99ca9f-d68e-48b2-b521-90ee8167bc30.png' alt='github' height='40'>
+<br>
 github<img src='https://user-images.githubusercontent.com/109778441/180619699-04ce5b50-5f1e-4b2b-9606-60c51bd685a8.png' alt='github' height='40'>
+<br>
 - 📫 Cómo contactarme: asolis@uta.edu.ec
 - 📲 Whatsapp: +593 987153094
 
