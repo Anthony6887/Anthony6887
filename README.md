@@ -12,6 +12,7 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 <img src='https://user-images.githubusercontent.com/109778441/180619710-59b3c4bb-364b-4b52-bb7d-cf5ad8b27304.png' alt='github' height='40'>&nbsp;<img src='https://user-images.githubusercontent.com/109778441/180619742-0f99ca9f-d68e-48b2-b521-90ee8167bc30.png' alt='github' height='40'>&nbsp;<br>
 - 📫 Cómo contactarme: asolis@uta.edu.ec
 - 📲 Whatsapp: +593 987153094
+- 🕶 Facebook: Anthony Solis
 
 
 
