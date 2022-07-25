@@ -14,6 +14,10 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 - 📲 Whatsapp: +593 987153094
 - 🕶 Facebook: Anthony Solis
 
+##Experiencia
+En el ambito laboral no tengo ninguna.
+Tengo un tiempo utilizando varias herramientas y auto educandome para mejorar en diferenctes aspectos que debo mejorar.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anthony6887)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@anthonysolis2001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@antho6887)  
