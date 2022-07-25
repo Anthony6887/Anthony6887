@@ -15,7 +15,7 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 - 🕶 Facebook: Anthony Solis
 
 ### Experiencia
-En el ambito laboral no tengo ninguna.
+En el ambito laboral no tengo ninguna.<br>
 Tengo un tiempo utilizando varias herramientas y auto educandome para mejorar en diferenctes aspectos que debo mejorar.
 
 
