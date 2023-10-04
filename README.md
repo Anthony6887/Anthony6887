@@ -18,10 +18,12 @@ Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de
 En el ambito laboral no tengo ninguna.<br>
 Tengo un tiempo utilizando varias herramientas y auto educandome para mejorar en diferenctes aspectos que debo mejorar.
 
-###Certificados
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7e70b0cf-2ff8-4dda-b1d8-1347d287075a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### Certificados<br>
+Python for Data Science
+Issued by IBM<br>
+![python-for-data-science](https://github.com/Anthony6887/Anthony6887/assets/109778441/22eb98be-abde-47db-a41f-7444ae0439cd)
 
-
+https://www.credly.com/badges/7e70b0cf-2ff8-4dda-b1d8-1347d287075a/public_url
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Anthony6887)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@anthonysolis2001/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@antho6887)  
 
