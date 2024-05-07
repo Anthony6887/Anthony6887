@@ -1,5 +1,5 @@
 ### Hola 👋, Mi nombre es Anthony Solis
-#### Soy estudiante de la Universidad Técnica de Ambato de la carrera Ingeniería en Software
+#### Ingeniero en Software
 
 Aquí colocare información sobre los proyectos que realice a futuro por el momento no he hecho proyecto grandes solo pequeños.
 
