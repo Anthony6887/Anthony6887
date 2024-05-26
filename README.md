@@ -60,19 +60,37 @@ Issued by IBM<br>
 <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/22eb98be-abde-47db-a41f-7444ae0439cd" alt="Python for Data Science Certificate"><br>
 [View Certificate](https://www.credly.com/badges/7e70b0cf-2ff8-4dda-b1d8-1347d287075a/public_url)
 
-<div align="center">
-  <p>
-    <a href="https://github.com/Anthony6887">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
-    </a>
-    <a href="https://www.instagram.com/@anthonysolis2001/">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
-    </a>
-    <a href="https://twitter.com/@antho6887">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40">
-    </a>
-  </p>
-</div>
+
+## Featured Projects
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Intercollegiate Contest Web Application (GAD Pelileo)</h3>
+  <div align="center">
+    <a href="https://github.com/Anthony6887/Evento_Cultural" target="_blank"><img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/af08da65-bd1a-4faa-aede-778e06299fa7" width="400" alt="Evento_Cultural"></a>
+    <p>
+      <a href="https://github.com/Anthony6887/Evento_Cultural" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+  <p>Development of a <strong>web application for the interface of a Kahoot!</strong>: this project involves the creation of an interface for the web application of several minigames. They include functionalities and design elements.</p>  </div>                
+</td>
+
+<td width="50%">
+  <br>
+  <h3 align="center">English School Development (UNREAL)</h3>
+  <div align="center">
+    <a href="https://github.com/Eduardlink/CasaAbiertaDas" target="_blank"><img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/fd8ffe98-9944-4239-9911-a7fd4dcaae91" width="400" alt="scholenglish"></a>
+    <br>
+    <p>
+      <a href="https://github.com/Eduardlink/CasaAbiertaDas" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Creation of a virtual classroom prototype system where English will be learned through interactive objects using c# and bluprints in Unreal: this project is designed to make learning more fun. </p>
+  </div>   
+</td> 
+</table>   
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino GIF">
