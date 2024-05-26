@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="">Anthony Solis</a> 👋</h1>
 </div>
-<img src="https://viewer.desygner.com/8YZT7B1n4uN/">
+<img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/77bf87e8-a33d-47a4-88e9-6a13af4eac42")
+">
 #### Ingeniero en Software
 
 Aquí colocare información sobre los proyectos que realice a futuro por el momento no he hecho proyecto grandes solo pequeños.
