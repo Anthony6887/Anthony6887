@@ -3,20 +3,23 @@
 </div>
 <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/c55bf218-e8b7-49e3-a11d-914de1e95e5d")
 ">
-#### Ingeniero en Software
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Developer..&hearts;++;Self-Taught+Front-End+Developer,;Back-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-Aquí colocare información sobre los proyectos que realice a futuro por el momento no he hecho proyecto grandes solo pequeños.
 
-Habilidades: Aun no tengo ninguna habilidad perfeccionada en ningún lenguaje de programación lo que si puede manejar es java intermedio además un poco de php y html.
+<br>
 
-- 🌱 Estoy aprendiendo <br>
-<img src='https://user-images.githubusercontent.com/109778441/180619720-2ce15725-e2c4-4723-8dd0-8008818211de.png' alt='github' height='40'>&nbsp;
-<img src='https://user-images.githubusercontent.com/109778441/180619726-5a9ae7e9-9061-4e28-bc1c-9c4972258dbc.png' alt='github' height='40'>&nbsp; 
-<img src='https://user-images.githubusercontent.com/109778441/180619730-2d62c0ab-e801-4ac5-98d1-9e10b6b0d114.png' alt='github' height='40'>&nbsp;
-<img src='https://user-images.githubusercontent.com/109778441/180619710-59b3c4bb-364b-4b52-bb7d-cf5ad8b27304.png' alt='github' height='40'>&nbsp;<img src='https://user-images.githubusercontent.com/109778441/180619742-0f99ca9f-d68e-48b2-b521-90ee8167bc30.png' alt='github' height='40'>&nbsp;<br>
-- 📫 Cómo contactarme: asolis@uta.edu.ec
-- 📲 Whatsapp: +593 987153094
-- 🕶 Facebook: Anthony Solis
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### Ingeniero en Software
+
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+- 📫 Mail: antho6884@gmail.com <br>
+- 🕶 LinkedIn: Anthony Solis
 
 ### Experiencia
 En el ambito laboral no tengo ninguna.<br>
