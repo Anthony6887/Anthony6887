@@ -1,7 +1,7 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="">Anthony Solis</a> 👋</h1>
+<h1 align="center">Hi I am <a href="">Anthony Solis</a> 👋</h1>
 </div>
-<img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/77bf87e8-a33d-47a4-88e9-6a13af4eac42")
+<img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/c55bf218-e8b7-49e3-a11d-914de1e95e5d")
 ">
 #### Ingeniero en Software
 
