@@ -1,4 +1,7 @@
-### Hola 👋, Mi nombre es Anthony Solis
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://aristi.dev">Anthony Solis</a> 👋</h1>
+</div>
+<img src="https://i.imgur.com/weNbhGZ.png">
 #### Ingeniero en Software
 
 Aquí colocare información sobre los proyectos que realice a futuro por el momento no he hecho proyecto grandes solo pequeños.
