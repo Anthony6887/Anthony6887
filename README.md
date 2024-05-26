@@ -11,7 +11,7 @@
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> **About me**
 
-## Ingeniero en Software
+## SOFTWARE ENGINEER
 <div align="center">
   <h3>Languages:</h3>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,php,typescript,java,python,matlab" alt="Languages"></a>
@@ -29,7 +29,7 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,postman,git,vscode" alt="Tools"></a>
 </div>
 
-## Experiencia
+## Experience
 
 <table align="center">
   <tr>
