@@ -15,27 +15,44 @@
 
 ### Ingeniero en Software
 <div align="center">
-<br>
-### Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,php,typescript)](https://skillicons.dev)
+  <h3>Languages:</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,php,typescript" alt="Languages"></a>
 
-### Database:
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql)](https://skillicons.dev)
+  <h3>Database:</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="Database"></a>
 
-### Backend:
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,nestjs,firebase)](https://skillicons.dev)
+  <h3>Backend:</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express,nodejs,nestjs,firebase" alt="Backend"></a>
 
-### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs)](https://skillicons.dev)
+  <h3>Frontend:</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,nextjs" alt="Frontend"></a>
 
-### Tools:
-[![My Skills](https://skillicons.dev/icons?i=figma,postman)](https://skillicons.dev)
-
+  <h3>Tools:</h3>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma,postman" alt="Tools"></a>
 </div>
 
 ### Experiencia
-GAD Municipal Sanpedro de Pelileo <br>
-Cuerpo de Bomberos Ambato
+
+<table align="center">
+  <tr>
+    <td style="text-align: center; padding: 10px;">
+      GAD Municipal Sanpedro de Pelileo<br>
+      <img src="https://pelileo.gob.ec/portal/wp-content/uploads/2021/04/cropped-MARCA-GAD-PELILEO-05-1.png" width="200">
+    </td>
+    <td style="text-align: center; padding: 10px;">
+      Cuerpo de Bomberos Ambato<br>
+      <img src="https://scontent.fatf3-1.fna.fbcdn.net/v/t39.30808-6/362263000_683043853843962_5721593710097982444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEgunpZxmgkx4WTIdIT_bM8v-2eKInWUqm_7Z4oidZSqYbUpjKJfdVgYtTOjUtdrTRZNuEQNaPojumCffrnCexQ&_nc_ohc=OOR6BcUF-hcQ7kNvgHsprkN&_nc_ht=scontent.fatf3-1.fna&oh=00_AYCONYtAUEdbz8oP9jk2a9nrCMp7HQlxmohFXh8CKC0wCA&oe=66596EF2" width="200">
+    </td>
+    <td style="text-align: center; padding: 50px;">
+       FISEI<br>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXuUBfnTWwn8cxU7ohTFrvyWgMOA-bcDQHGwVABp53w&s" width="200">
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ### Certificados
 Python for Data Science<br>
