@@ -65,7 +65,7 @@ Issued by IBM<br>
 <table>
 <tr>
 <td width="50%">
-  <h3 align="center">Intercollegiate Contest Web Application (GAD Pelileo)</h3>
+  <h3 align="center">Intercollegiate Contest Web Application</h3>
   <div align="center">
     <a href="https://github.com/Anthony6887/Evento_Cultural" target="_blank"><img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/af08da65-bd1a-4faa-aede-778e06299fa7" width="400" alt="Evento_Cultural"></a>
     <p>
