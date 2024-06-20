@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi I am <a href="">Anthony Solis</a> 👋</h1>
-  <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/7f07df6a-32a0-4916-aa4a-90fbb7ae3253" alt="Anthony Solis Image">
+  <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/332c240c-7fe6-4a6e-9d2c-367bad186657" alt="Anthony Solis Image">
 </div>
 
 <p align="center">
