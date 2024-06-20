@@ -2,7 +2,7 @@
   <h1 align="center">Hi I am <a href="">Anthony Solis</a> 👋</h1>
   <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/332c240c-7fe6-4a6e-9d2c-367bad186657" alt="Anthony Solis Image">
 </div>
-
+<p>I am a trained software developer with experience in TypeScript and experience in frameworks such as React, Node.js and Angular. I learn quickly and collaborate closely with others to create efficient, scalable and easy-to-use solutions that solve real-world problems. Let's work together to make your ideas come true!</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Junior+Developer..&hearts;++;Self-Taught+Front-End+Developer,;Back-End+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3" alt="Typing SVG">
