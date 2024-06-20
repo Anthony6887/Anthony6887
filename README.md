@@ -97,10 +97,38 @@
         <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
+    <p>The Restaurant Menu System with Roles is an application designed to improve restaurant efficiency and management, allowing detailed control over daily operations through a role-based system. This application allows managers, chefs, servers and customers to interact with the system based on their specific permissions and needs.</p>
+  </div>   
+</td> 
+</table>
+<table>
+<tr>
+<td width="50%">
+  <h3 align="center">Sistema de Menu de Restaurantes</h3>
+  <div align="center">
+    <a href="https://github.com/Anthony6887/MenuComida.git" target="_blank"><img src="https://github.com/Anthony6887/MenuComida/assets/109778441/a5a9d2e9-48f6-42eb-8c64-829c0bfc3e11" width="400" alt="Evento_Cultural"></a>
+    <p>
+      <a href="https://github.com/Anthony6887/Evento_Cultural" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+  <p>Development of a <strong>web application for the interface of a Kahoot!</strong>: this project involves the creation of an interface for the web application of several minigames. They include functionalities and design elements.</p>  
+  </div>                
+</td>
+<td width="50%">
+  <h3 align="center">English School Development (UNREAL)</h3>
+  <div align="center">
+    <a href="https://github.com/Eduardlink/CasaAbiertaDas" target="_blank"><img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/fd8ffe98-9944-4239-9911-a7fd4dcaae91" width="400" alt="scholenglish"></a>
+    <br>
+    <p>
+      <a href="https://github.com/Eduardlink/CasaAbiertaDas" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
     <p>Creation of a virtual classroom prototype system where English will be learned through interactive objects using c# and bluprints in Unreal: this project is designed to make learning more fun. </p>
   </div>   
 </td> 
-</table>   
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif" alt="Dino GIF">
