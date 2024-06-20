@@ -39,7 +39,7 @@
     </td>
     <td style="text-align: center; padding: 10px;">
       Cuerpo de Bomberos Ambato<br>
-      <img src="https://scontent.fatf3-1.fna.fbcdn.net/v/t39.30808-6/362263000_683043853843962_5721593710097982444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEgunpZxmgkx4WTIdIT_bM8v-2eKInWUqm_7Z4oidZSqYbUpjKJfdVgYtTOjUtdrTRZNuEQNaPojumCffrnCexQ&_nc_ohc=OOR6BcUF-hcQ7kNvgHsprkN&_nc_ht=scontent.fatf3-1.fna&oh=00_AYCONYtAUEdbz8oP9jk2a9nrCMp7HQlxmohFXh8CKC0wCA&oe=66596EF2" width="200">
+      <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/bc15eb86-1a9b-455d-8515-8a2108a14cb7" width="200">
     </td>
     <td style="text-align: center; padding: 50px;">
        FISEI<br>
