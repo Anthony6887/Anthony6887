@@ -116,16 +116,16 @@
   </div>                
 </td>
 <td width="50%">
-  <h3 align="center">English School Development (UNREAL)</h3>
+  <h3 align="center">GoutmetGo</h3>
   <div align="center">
-    <a href="https://github.com/Eduardlink/CasaAbiertaDas" target="_blank"><img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/fd8ffe98-9944-4239-9911-a7fd4dcaae91" width="400" alt="scholenglish"></a>
+    <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd.git" target="_blank"><img src="https://github.com/Anthony6887/MenuComida/assets/109778441/2573493e-2340-4518-b96d-774abda81595" width="400" alt="scholenglish"></a>
     <br>
     <p>
-      <a href="https://github.com/Eduardlink/CasaAbiertaDas" target="_blank">
-        <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+      <a href="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd.git" target="_blank">
+        <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
-    <p>Creation of a virtual classroom prototype system where English will be learned through interactive objects using c# and bluprints in Unreal: this project is designed to make learning more fun. </p>
+    <p>The web restaurant management project is an initiative aimed at developing a comprehensive web platform for the administration and efficient operation of restaurants. This tool is designed for owners, managers and restaurant personnel, offering functionalities that optimize inventory management, orders, reservations.</p>
   </div>   
 </td> 
 </table>
