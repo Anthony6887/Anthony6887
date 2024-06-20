@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi I am <a href="">Anthony Solis</a> 👋</h1>
-  <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/332c240c-7fe6-4a6e-9d2c-367bad186657" alt="Anthony Solis Image">
+  <img src="https://github.com/PSW-GourtmetGO/GourtmetGo-Web-FrontEnd/assets/109778441/dda19711-c7ad-4fd6-b1dd-44337a012aad" alt="Anthony Solis Image">
 </div>
 <p>I am a trained software developer with experience in TypeScript and experience in frameworks such as React, Node.js and Angular. I learn quickly and collaborate closely with others to create efficient, scalable and easy-to-use solutions that solve real-world problems. Let's work together to make your ideas come true!</p>
 <p align="center">
