@@ -56,10 +56,17 @@
     </td>
     <br>
     <td style="text-align: center; padding: 10px;">
-      Programacion en Java<br>
-      Politécnico de Colombia<br>
+      Java programming<br>
+      Colombian Polytechnic<br>
       <img src="https://blog.facialix.com/wp-content/uploads/2024/05/Curso-de-Java-Nivel-Basico-GRATIS.jpg" alt="Java Certificate" width="200"><br>
       <a href="https://politecnicodecolombia.edu.co/contable/app/certificados/pages/certificado.php?Id=zJ2Ox0jpwYBGg6E7Gbda">View Certificate</a>
+    </td>
+    <br>
+    <td style="text-align: center; padding: 10px;">
+      Informatic security<br>
+      Polytechnic of SOUTH AMERICA<br>
+      <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/0957338b-106c-404a-82a2-79e29357bb96" alt="Java Certificate" width="200"><br>
+      <a href="https://certificado.polisura.edu.co/certificacion.php?id=oKCVep6o">View Certificate</a>
     </td>
   </tr>
 </table>
