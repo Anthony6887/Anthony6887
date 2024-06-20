@@ -41,10 +41,6 @@
       Cuerpo de Bomberos Ambato<br>
       <img src="https://github.com/Anthony6887/Anthony6887/assets/109778441/bc15eb86-1a9b-455d-8515-8a2108a14cb7" width="200">
     </td>
-    <td style="text-align: center; padding: 50px;">
-       FISEI<br>
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUXuUBfnTWwn8cxU7ohTFrvyWgMOA-bcDQHGwVABp53w&s" width="200">
-    </td>
   </tr>
 </table>
 
